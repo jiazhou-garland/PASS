@@ -1,7 +1,7 @@
 # [🌟NeurIPS 2025🌟] PASS: Path-selective State Space Model for Event-based Recognition
 
-[![issue resolution](https://img.shields.io/github/issues-closed-raw/EvolvingLMMs-Lab/lmms-eval)](https://github.com/jiazhou-garland/PASS/issues)
-[![open issues](https://img.shields.io/github/issues-raw/EvolvingLMMs-Lab/lmms-eval)](https://github.com/jiazhou-garland/PASS/issues)
+[![issue resolution](https://img.shields.io/github/issues-closed-raw/jiazhou-garland/PASS)](https://github.com/jiazhou-garland/PASS/issues)
+[![open issues](https://img.shields.io/github/issues-raw/jiazhou-garland/PASS)](https://github.com/jiazhou-garland/PASS/issues)
 
 > This repository contains the official PyTorch implementation of the paper "PASS: Path-selective State Space Model for Event-based Recognition".
 
@@ -17,6 +17,7 @@ This repository is released under the [MIT](LICENSE) License.
 ---
 # Contact
 If you have any questions about this project, please open an issue in this repository.
+
 
 
 
