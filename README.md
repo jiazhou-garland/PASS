@@ -2,7 +2,7 @@
 
 > This repository contains the official PyTorch implementation of the paper "PASS: Path-selective State Space Model for Event-based Recognition".
 
-🏠 [PASS Homepage](https://) | 🤗 [Huggingface Datasets](https://huggingface.co/) |
+🏠 [PASS Homepage](https://vlislab22.github.io/pastssm/) | 🤗 [Huggingface Datasets](https://huggingface.co/) |
 ---
 ## Annoucement
 - [2025-09] 🚀🚀 **This paper has been accepted by NeurIPS 2025. The related code, pre-trained checkpoints, and proposed datasets will be released soon.**
@@ -14,6 +14,7 @@ This repository is released under the [MIT](LICENSE) License.
 ---
 # Contact
 If you have any questions about this project, please open an issue in this repository.
+
 
 
 
